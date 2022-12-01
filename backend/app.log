@@ -1,0 +1,84 @@
+2022-11-29T16:39:58.643Z [INFO   ] : app is running, version: 1.1.0
+1669740004241 [ERROR  ] : Validation Failure
+Tue Nov 29 2022 21:41:08 GMT+0500 (Туркменистан, стандартное время) [INFO   ] : app is running, version: 1.1.0
+Tue Nov 29 2022 21:41:19 GMT+0500 (Туркменистан, стандартное время) [INFO   ] : app is running, version: 1.1.0
+2022-11-29T16:41:24.366Z [INFO   ] : app is running, version: 1.1.0
+2022-11-29T16:41:38.852Z [INFO   ] : app is running, version: 1.1.0
+1669740109812 [ERROR  ] : Validation Failure
+[Nov-29-2022 21:44:51]  [info]:  	app is running, version: 1.1.0  
+[Nov-29-2022 21:45:17]  [error]:  	Validation Failure  undefined
+[Nov-29-2022 21:45:48]  [info]:	app is running, version: 1.1.0}
+[Nov-29-2022 21:45:55]  [error]:	Validation Failure}
+[Nov-29-2022 21:46:36]  [info]:	app is running, version: 1.1.0 undefined}
+[Nov-29-2022 21:46:41]  [error]:	Validation Failure undefined}
+[Nov-29-2022 21:47:27]  [info]:	app is running, version: 1.1.0 }
+[Nov-29-2022 21:47:42]  [error]:	Validation Failure }
+[Nov-29-2022 21:48:21]  [info]:	app is running, version: 1.1.0
+[Nov-29-2022 21:48:26]  [error]:	Validation Failure
+[Nov-29-2022 21:48:47]  [INFO   ]:	app is running, version: 1.1.0
+[Nov-29-2022 21:49:05]  [INFO ]:	app is running, version: 1.1.0
+[Nov-29-2022 21:49:24]  [INFO ]:	app is running, version: 1.1.0
+[Nov-29-2022 21:51:28]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:18:33]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:18:42]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:24:20]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:32:21]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 19:33:37]  [INFO ]:	url:https://gmail.com
+[Nov-30-2022 19:38:42]  [INFO ]:	url:https://gmail.com
+[Nov-30-2022 19:41:06]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:41:22]  [ERROR]:	Credential error
+[Nov-30-2022 19:44:41]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:45:50]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:45:54]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 19:46:06]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:46:30]  [INFO ]:	url:https://gmail.com
+[Nov-30-2022 19:48:48]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 19:49:02]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 19:49:32]  [ERROR]:	Validation Failure
+[Nov-30-2022 19:49:56]  [INFO ]:	url:https://gmail.com
+[Nov-30-2022 19:50:59]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 19:51:14]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:51:25]  [ERROR]:	Validation Failure
+[Nov-30-2022 19:53:03]  [INFO ]:	url:https://gmail.com
+[Nov-30-2022 19:55:42]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 19:56:52]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:57:35]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:57:41]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 19:57:49]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 19:59:49]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:00:58]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:02:07]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:02:32]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:06:01]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:06:08]  [INFO ]:	url:https://gmail.com
+[Nov-30-2022 20:06:19]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:06:31]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 20:06:38]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 20:06:49]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 20:07:34]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 20:08:08]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:08:09]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 20:08:45]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:08:47]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 20:08:51]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:09:13]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:09:46]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:09:47]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 20:09:59]  [ERROR]:	You are not authorized to update user
+[Nov-30-2022 20:10:43]  [INFO ]:	url:https://gmail.com
+[Nov-30-2022 20:11:10]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:12:32]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:12:37]  [ERROR]:	Credential error
+[Nov-30-2022 20:12:41]  [ERROR]:	Credential error
+[Nov-30-2022 20:12:46]  [ERROR]:	Credential error
+[Nov-30-2022 20:12:49]  [ERROR]:	Credential error
+[Nov-30-2022 20:12:53]  [ERROR]:	Credential error
+[Nov-30-2022 20:12:54]  [ERROR]:	Credential error
+[Nov-30-2022 20:12:54]  [ERROR]:	Credential error
+[Nov-30-2022 20:13:02]  [ERROR]:	email not found
+[Nov-30-2022 20:13:38]  [INFO ]:	url:https://gmail.com
+[Nov-30-2022 20:14:43]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:16:19]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:16:22]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:16:27]  [INFO ]:	app is running, version: 1.1.0
+[Nov-30-2022 20:16:39]  [INFO ]:	app is running, version: 1.1.0
